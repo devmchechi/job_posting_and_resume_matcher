@@ -106,7 +106,7 @@ job-matcher/
 │   ├── requirementanalyzer.py # Agent 2: Extract requirements
 │   └── resumematcher.py       # Agent 3: Match resume
 ├── docs/
-│   ├── job_posting.txt         # Sample job posting
+│   ├── jobposting.txt         # Sample job posting
 │   └── resume.txt              # Sample resume
 ├── tests/
 │   ├── __init__.py
@@ -114,7 +114,7 @@ job-matcher/
 ├── utils/
 │   ├── __init__.py
 │   ├── logger.py               # Logging utility
-│   └── pdf_reader.py           # PDF text extraction utility
+│   └── pdfreader.py           # PDF text extraction utility
 ├── output/                     # Generated results (created on run)
 ├── logs/                       # Workflow logs (created on run)
 ├── main.py                     # Main orchestration
