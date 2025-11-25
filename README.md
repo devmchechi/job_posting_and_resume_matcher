@@ -191,7 +191,7 @@ The project includes comprehensive unit tests covering:
 ### Run Tests
 
 ```bash
-python -m unittest discover tests
+python -m unittest tests.test -v
 ```
 
 ### Test Coverage
