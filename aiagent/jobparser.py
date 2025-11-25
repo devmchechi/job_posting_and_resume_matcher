@@ -25,7 +25,7 @@ class JobParserAgent:
     
     def __init__(self):
         self.llm = ChatOpenAI(
-            model="llama3.1-70b",
+            model="gpt-oss-120b",
             api_key=os.getenv("CEREBRAS_API_KEY"),
             base_url="https://api.cerebras.ai/v1",
             temperature=0

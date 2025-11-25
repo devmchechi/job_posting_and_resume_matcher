@@ -4,8 +4,6 @@ Main orchestration file for LLM agent workflow
 """
 
 import json
-import logging
-import os
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, Any
@@ -142,7 +140,7 @@ class JobMatcherOrchestrator:
 {self._format_traces(results["workflow_traces"])}
 """
         
-        with open(path, 'w') as f:
+        with open(path, 'w', encoding='utf-8') as f:
             f.write(content)
     
     def _format_list(self, items):
@@ -159,19 +157,15 @@ class JobMatcherOrchestrator:
 
 def main():
     """Main entry point"""
-    # Paths (supports both .txt and .pdf for resume)
-    job_posting_path = "data/job_posting.txt"
-    resume_path = "data/resume.txt"  # Can also use .pdf files!
+    job_posting_path = "docs/jobposting.txt"
+    resume_path = "docs/resume.pdf" 
     output_path = "output/match_results"
     
-    # Create output directory
     Path("output").mkdir(exist_ok=True)
     
-    # Run workflow
     orchestrator = JobMatcherOrchestrator()
     results = orchestrator.run_workflow(job_posting_path, resume_path)
     
-    # Save results
     orchestrator.save_results(results, output_path)
     
     # Print summary

@@ -1,0 +1,147 @@
+{
+  "job_posting": {
+    "title": "Product Engineer Co-op (6-month)",
+    "company": "Levo",
+    "location": "Boston, MA (In-person)",
+    "description": "Why this role\nLevo helps healthcare providers recruit and retain frontline talent \u2014 nurses, caregivers, clinicians, and others on the front lines of patient care. We're looking for a Product Engineer Co-op who thrives at the intersection of product and engineering.\n\nThis 6-month role is ideal for a Northeastern senior who wants to experience real ownership inside a fast-moving startup. You'll sit in on customer calls, use AI to accelerate how we ship code, and own features end-to-end \u2014 from mock-up to monitoring in production.\n\nYou'll work directly with the CEO and senior engineers, helping build tools used by some of the largest healthcare providers in the country.\n\nWhat You'll Own\n\nProduct + Engineering Execution\n* End-to-end ownership: mock-up, build, ship, and monitor features.\n* Use AI tools daily (Copilot, Devin, etc.) to speed up development and ensure quality.\n* Write tests and manage CI/CD for your own work.\n* Join customer calls and implementations to integrate feedback directly.\n\nCustomer-Centered Development\n* Translate customer asks into product requirements and user stories.\n* Actively participate in customer implementations; understand workflows firsthand.\n* Ship features that are reliable and usable in real healthcare environments.\n\nCollaboration & Growth\n* Work closely with Jason (CEO), Mikey, and Lily in Boston.\n* Contribute ideas to product direction and development priorities.\n* Propose and lead small workflow/process improvements to help the team ship faster.\n\n15/30/45/90/120/180 Day Expectations\n\nAt 15 Days\n* Get up to speed on Levo's stack (React, TypeScript, Go).\n* Ship small but meaningful fixes/features (1\u20132 days speed-to-first-PR).\n* Shadow customer calls and implementations.\n\nAt 30 Days\n* Own and ship your first feature end-to-end (mock-up \u2192 build \u2192 ship \u2192 monitor).\n* Balance speed of delivery with production reliability.\n\nAt 45\u201390 Days\n* Contribute to customer implementations and integrations.\n* Propose and execute improvements to engineering workflows or developer tooling.\n* Gain confidence in guiding AI-generated code and writing appropriate guardrails.\n\nAt 120\u2013180 Days\n* Take ownership of a product area, reliably shipping features customers use.\n* Integrate customer feedback directly into your work.\n* Present one internal \"retrospective\" on what you built, what you learned, and what you'd improve next cycle.\n\nWho You Are\n* Senior-level Northeastern student (CS, Computer Engineering, or related field).\n* A builder with a track record \u2014 personal projects, hackathons, or internships.\n* Solid technical foundation across modern web stacks (React, HTML, TypeScript, Go, Python, AWS, etc.).\n* Adaptable and eager to learn new technologies quickly.\n* Strong product sense: can identify what's worth building, not just how.\n* Excited to use AI tools as leverage, not threatened by them.\n* Energized by talking to customers and shaping features from their pain points.\n* Thrives with support nearby but doesn't need handholding.\n\nRead This Carefully\n* \ud83d\udce9 Not a ticket-taker \u2014 \u2610 you'll decide what to build.\n* \ud83d\udce9 Not heads-down-only \u2014 \u2610 you'll be customer-facing.\n* \ud83d\udce9 Not for order-followers \u2014 \u2610 you'll have support but must set your own direction.\n\nHow We Work\n* Always part of the solution \u2013 We don't stop at identifying problems; we fix them.\n* Invent and simplify \u2013 We search for ideas everywhere and simplify relentlessly.\n* Progress over perfection \u2013 We bias toward bold action, learn quickly, and adapt.\n* See something, say something \u2013 Our wins and misses are collective; transparency is a must.",
+    "raw_text": "Software Engineering Co-op\nLevo\nBoston, MA (In-person)\nCo-op\n\nTitle: Product Engineer Co-op (6-month)\nLocation: Boston (in-person; customer exposure expected)\nReports to: CEO\nStage: Early growth (team of ~10)\nWebsite: https://www.hellolevo.com\n\nWhy this role\nLevo helps healthcare providers recruit and retain frontline talent \u00e2\u20ac\u201d nurses, caregivers, clinicians, and others on the front lines of patient care. We're looking for a Product Engineer Co-op who thrives at the intersection of product and engineering.\n\nThis 6-month role is ideal for a Northeastern senior who wants to experience real ownership inside a fast-moving startup. You'll sit in on customer calls, use AI to accelerate how we ship code, and own features end-to-end \u00e2\u20ac\u201d from mock-up to monitoring in production.\n\nYou'll work directly with the CEO and senior engineers, helping build tools used by some of the largest healthcare providers in the country.\n\nWhat You'll Own\n\nProduct + Engineering Execution\n* End-to-end ownership: mock-up, build, ship, and monitor features.\n* Use AI tools daily (Copilot, Devin, etc.) to speed up development and ensure quality.\n* Write tests and manage CI/CD for your own work.\n* Join customer calls and implementations to integrate feedback directly.\n\nCustomer-Centered Development\n* Translate customer asks into product requirements and user stories.\n* Actively participate in customer implementations; understand workflows firsthand.\n* Ship features that are reliable and usable in real healthcare environments.\n\nCollaboration & Growth\n* Work closely with Jason (CEO), Mikey, and Lily in Boston.\n* Contribute ideas to product direction and development priorities.\n* Propose and lead small workflow/process improvements to help the team ship faster.\n\n15/30/45/90/120/180 Day Expectations\n\nAt 15 Days\n* Get up to speed on Levo's stack (React, TypeScript, Go).\n* Ship small but meaningful fixes/features (1\u00e2\u20ac\u201c2 days speed-to-first-PR).\n* Shadow customer calls and implementations.\n\nAt 30 Days\n* Own and ship your first feature end-to-end (mock-up \u00e2\u2020\u2019 build \u00e2\u2020\u2019 ship \u00e2\u2020\u2019 monitor).\n* Balance speed of delivery with production reliability.\n\nAt 45\u00e2\u20ac\u201c90 Days\n* Contribute to customer implementations and integrations.\n* Propose and execute improvements to engineering workflows or developer tooling.\n* Gain confidence in guiding AI-generated code and writing appropriate guardrails.\n\nAt 120\u00e2\u20ac\u201c180 Days\n* Take ownership of a product area, reliably shipping features customers use.\n* Integrate customer feedback directly into your work.\n* Present one internal \"retrospective\" on what you built, what you learned, and what you'd improve next cycle.\n\nWho You Are\n* Senior-level Northeastern student (CS, Computer Engineering, or related field).\n* A builder with a track record \u00e2\u20ac\u201d personal projects, hackathons, or internships.\n* Solid technical foundation across modern web stacks (React, HTML, TypeScript, Go, Python, AWS, etc.).\n* Adaptable and eager to learn new technologies quickly.\n* Strong product sense: can identify what's worth building, not just how.\n* Excited to use AI tools as leverage, not threatened by them.\n* Energized by talking to customers and shaping features from their pain points.\n* Thrives with support nearby but doesn't need handholding.\n\nRead This Carefully\n* \u00f0\u0178\u0161\u00ab Not a ticket-taker \u00e2\u20ac\u201d \u00e2\u0153\u2026 you'll decide what to build.\n* \u00f0\u0178\u0161\u00ab Not heads-down-only \u00e2\u20ac\u201d \u00e2\u0153\u2026 you'll be customer-facing.\n* \u00f0\u0178\u0161\u00ab Not for order-followers \u00e2\u20ac\u201d \u00e2\u0153\u2026 you'll have support but must set your own direction.\n\nHow We Work\n* Always part of the solution \u00e2\u20ac\u201c We don't stop at identifying problems; we fix them.\n* Invent and simplify \u00e2\u20ac\u201c We search for ideas everywhere and simplify relentlessly.\n* Progress over perfection \u00e2\u20ac\u201c We bias toward bold action, learn quickly, and adapt.\n* See something, say something \u00e2\u20ac\u201c Our wins and misses are collective; transparency is a must."
+  },
+  "requirements": {
+    "technical_skills": [
+      "React",
+      "TypeScript",
+      "Go",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "AWS (cloud services)",
+      "CI/CD pipelines",
+      "Automated testing (unit/integration)",
+      "Version control (Git)",
+      "AI coding assistants (e.g., GitHub Copilot, Devin)",
+      "Monitoring and observability tools",
+      "RESTful API development"
+    ],
+    "soft_skills": [
+      "Strong communication (customer calls, implementations)",
+      "Product sense and ability to translate user needs into requirements",
+      "Collaboration and teamwork (working with CEO and senior engineers)",
+      "Self\u2011direction and ability to set own direction without hand\u2011holding",
+      "Adaptability and quick learning of new technologies",
+      "Problem\u2011solving and ownership of end\u2011to\u2011end features",
+      "Ability to propose and lead process improvements",
+      "Transparency and willingness to share wins and misses",
+      "Bias toward action and rapid iteration",
+      "Presentation skills (retrospectives, demos)"
+    ],
+    "experience_years": 0,
+    "education": "Senior\u2011level undergraduate student pursuing a Bachelor\u2019s degree in Computer Science, Computer Engineering, or a related field (e.g., Northeastern University).",
+    "nice_to_have": [
+      "Personal projects, hackathons, or prior internships demonstrating a builder mindset",
+      "Experience with AI\u2011generated code and establishing guardrails",
+      "Familiarity with healthcare industry workflows or regulations",
+      "Experience with product ownership across mock\u2011up, build, ship, and monitor phases",
+      "Knowledge of additional programming languages or frameworks (e.g., Node.js, Ruby, Java)",
+      "Experience with agile methodologies and sprint planning"
+    ]
+  },
+  "match_analysis": {
+    "overall_score": 78,
+    "matched_skills": [
+      "React",
+      "TypeScript",
+      "HTML",
+      "JavaScript",
+      "Python",
+      "AWS",
+      "CI/CD pipelines",
+      "Automated testing (unit/integration)",
+      "Version control (Git)",
+      "RESTful API development",
+      "Node.js",
+      "Docker"
+    ],
+    "missing_skills": [
+      "Go",
+      "CSS",
+      "AI coding assistants (e.g., GitHub Copilot, Devin)",
+      "Monitoring and observability tools (e.g., Prometheus, Grafana, New Relic)",
+      "Explicit product ownership across mock\u2011up, build, ship, and monitor phases",
+      "Healthcare industry workflow familiarity"
+    ],
+    "recommendations": [
+      "Add \"CSS\" to the Skills section (even if basic) and mention any styling work done in the VaultDB.ai or other web projects.",
+      "If you have any exposure to Go, include it (e.g., personal learning, small scripts, or coursework). If not, consider a brief statement of intent to learn Go quickly.",
+      "Highlight any use of AI coding assistants such as GitHub Copilot in your development workflow; a simple bullet like \"Leveraged GitHub Copilot to accelerate feature development and maintain code quality\" will satisfy that requirement.",
+      "Mention any monitoring/observability experience\u2014e.g., using logging frameworks, Prometheus, Grafana, CloudWatch, or even simple health\u2011check endpoints you built for your embedded or web projects.",
+      "Emphasize end\u2011to\u2011end product ownership: add a bullet under the VaultDB.ai project describing how you gathered requirements, designed mock\u2011ups, implemented, deployed, and monitored the service.",
+      "Include a brief line about Agile methodology participation (e.g., sprint planning, stand\u2011ups, retrospectives) to reinforce your fit with the team's process culture.",
+      "If you have any exposure to healthcare data or regulations (HIPAA, HL7), add a short note; otherwise, consider a personal project or coursework that touches on data privacy to show awareness.",
+      "Quantify impact wherever possible (e.g., \"Reduced deployment time by 40%\", \"Improved testing throughput by X%\", \"Supported 200\u2011student class with 100% satisfaction rating\").",
+      "Add a \u201cSoft Skills\u201d bullet list or integrate keywords such as \"strong communication\", \"product sense\", \"self\u2011direction\", \"bias toward action\", and \"presentation skills\" to align with the job description."
+    ],
+    "strengths": [
+      "Outstanding academic performance (4.0 GPA) in a rigorous Computer Science program.",
+      "Hands\u2011on embedded systems experience with C++/Qt and real\u2011time vehicle control, demonstrating low\u2011level programming and hardware\u2011software integration.",
+      "Leadership as Head Teaching Assistant, managing a team of 10+ TAs and coordinating support for a 200\u2011student course.",
+      "Full\u2011stack web development expertise: React + TypeScript front\u2011end, AWS deployment, Docker containerization, and CI/CD pipelines with GitHub Actions.",
+      "Data analysis and visualization experience for major tech clients (Google, Databricks, Amazon), showcasing ability to translate data into actionable insights.",
+      "Proven process improvement mindset (replacing hard\u2011coded settings with configurable files, reducing manual effort).",
+      "Strong collaboration across multidisciplinary teams (software, electrical, mechanical) and effective communication of technical concepts to non\u2011technical stakeholders."
+    ]
+  },
+  "workflow_traces": [
+    {
+      "timestamp": "2025-11-24T20:02:45.435170",
+      "agent": "JobParser",
+      "action": "Reading job posting",
+      "data": {
+        "path": "docs/jobposting.txt"
+      }
+    },
+    {
+      "timestamp": "2025-11-24T20:02:46.643514",
+      "agent": "JobParser",
+      "action": "Completed parsing",
+      "data": {
+        "title": "Product Engineer Co-op (6-month)",
+        "company": "Levo"
+      }
+    },
+    {
+      "timestamp": "2025-11-24T20:02:46.643761",
+      "agent": "RequirementAnalyzer",
+      "action": "Analyzing requirements",
+      "data": {}
+    },
+    {
+      "timestamp": "2025-11-24T20:02:47.274068",
+      "agent": "RequirementAnalyzer",
+      "action": "Extracted requirements",
+      "data": {
+        "technical_skills_count": 14,
+        "soft_skills_count": 10,
+        "experience_years": 0
+      }
+    },
+    {
+      "timestamp": "2025-11-24T20:02:47.274393",
+      "agent": "ResumeMatcher",
+      "action": "Reading resume",
+      "data": {
+        "path": "docs/resume.pdf"
+      }
+    },
+    {
+      "timestamp": "2025-11-24T20:02:48.588620",
+      "agent": "ResumeMatcher",
+      "action": "Completed matching",
+      "data": {
+        "overall_score": 78,
+        "matched_skills": 12
+      }
+    }
+  ],
+  "generated_at": "2025-11-24T20:02:48.588974"
+}
