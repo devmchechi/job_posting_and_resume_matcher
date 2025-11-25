@@ -1,0 +1,77 @@
+Software Engineering Co-op
+Levo
+Boston, MA (In-person)
+Co-op
+
+Title: Product Engineer Co-op (6-month)
+Location: Boston (in-person; customer exposure expected)
+Reports to: CEO
+Stage: Early growth (team of ~10)
+Website: https://www.hellolevo.com
+
+Why this role
+Levo helps healthcare providers recruit and retain frontline talent — nurses, caregivers, clinicians, and others on the front lines of patient care. We're looking for a Product Engineer Co-op who thrives at the intersection of product and engineering.
+
+This 6-month role is ideal for a Northeastern senior who wants to experience real ownership inside a fast-moving startup. You'll sit in on customer calls, use AI to accelerate how we ship code, and own features end-to-end — from mock-up to monitoring in production.
+
+You'll work directly with the CEO and senior engineers, helping build tools used by some of the largest healthcare providers in the country.
+
+What You'll Own
+
+Product + Engineering Execution
+* End-to-end ownership: mock-up, build, ship, and monitor features.
+* Use AI tools daily (Copilot, Devin, etc.) to speed up development and ensure quality.
+* Write tests and manage CI/CD for your own work.
+* Join customer calls and implementations to integrate feedback directly.
+
+Customer-Centered Development
+* Translate customer asks into product requirements and user stories.
+* Actively participate in customer implementations; understand workflows firsthand.
+* Ship features that are reliable and usable in real healthcare environments.
+
+Collaboration & Growth
+* Work closely with Jason (CEO), Mikey, and Lily in Boston.
+* Contribute ideas to product direction and development priorities.
+* Propose and lead small workflow/process improvements to help the team ship faster.
+
+15/30/45/90/120/180 Day Expectations
+
+At 15 Days
+* Get up to speed on Levo's stack (React, TypeScript, Go).
+* Ship small but meaningful fixes/features (1–2 days speed-to-first-PR).
+* Shadow customer calls and implementations.
+
+At 30 Days
+* Own and ship your first feature end-to-end (mock-up → build → ship → monitor).
+* Balance speed of delivery with production reliability.
+
+At 45–90 Days
+* Contribute to customer implementations and integrations.
+* Propose and execute improvements to engineering workflows or developer tooling.
+* Gain confidence in guiding AI-generated code and writing appropriate guardrails.
+
+At 120–180 Days
+* Take ownership of a product area, reliably shipping features customers use.
+* Integrate customer feedback directly into your work.
+* Present one internal "retrospective" on what you built, what you learned, and what you'd improve next cycle.
+
+Who You Are
+* Senior-level Northeastern student (CS, Computer Engineering, or related field).
+* A builder with a track record — personal projects, hackathons, or internships.
+* Solid technical foundation across modern web stacks (React, HTML, TypeScript, Go, Python, AWS, etc.).
+* Adaptable and eager to learn new technologies quickly.
+* Strong product sense: can identify what's worth building, not just how.
+* Excited to use AI tools as leverage, not threatened by them.
+* Energized by talking to customers and shaping features from their pain points.
+* Thrives with support nearby but doesn't need handholding.
+
+Read This Carefully
+* 🚫 Not a ticket-taker — ✅ you'll decide what to build.
+* 🚫 Not heads-down-only — ✅ you'll be customer-facing.
+* 🚫 Not for order-followers — ✅ you'll have support but must set your own direction.
+
+How We Work
+* Always part of the solution – We don't stop at identifying problems; we fix them.
+* Invent and simplify – We search for ideas everywhere and simplify relentlessly.
+* Progress over perfection – We bias toward bold action, learn quickly, and adapt.
+* See something, say something – Our wins and misses are collective; transparency is a must.
